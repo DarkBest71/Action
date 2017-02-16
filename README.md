@@ -1,6 +1,8 @@
 # Action
 Action 3.16
 
+Auteur: Avatar Rousseau Dark-Best.
+
 Le module Action permet de faire parler S.A.R.A.H en utilisant requete http depuis votre box domotique.
 		
 l'utilisation se fait en appellant l'adresse de votre serveur nodejs.
