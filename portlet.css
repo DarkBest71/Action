@@ -1,0 +1,10 @@
+.plugin-gridster.Action .front {
+  background: #55b5e6 url('images/http1.jpg') center 34px;
+  background-size:   150px 80px;
+  background-repeat: no-repeat;
+}
+.plugin-gridster.Action .back {
+  background: #070000 url('images/http2.jpg') center 34px;
+  background-size:   150px 75px;
+  background-repeat: no-repeat;
+}
