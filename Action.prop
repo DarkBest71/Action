@@ -2,7 +2,7 @@
   "modules": { 
     "Action": {
       "description": "Action permet de faire parler SARAH depuis une requete http",
-      "version": "3.16"
+      "version": "3.16",
 	  "Auteur": "Avatar Rousseau (Dark Best)"
     }
   }
